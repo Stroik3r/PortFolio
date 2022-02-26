@@ -3,9 +3,9 @@ import "./contact.css"
 const Contact = () => {
   return (
     <div className="c">
-        Contact
+        Cont
     </div>
   )
 }
 
-export default Contact
+export default Contact;
